@@ -1,0 +1,9 @@
+# requirements.txt
+mcp
+anthropic
+fastapi
+uvicorn[standard]
+pydantic
+aiohttp
+websockets
+python-dotenv
